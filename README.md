@@ -3,6 +3,7 @@ Bu çalışma, bir futbol sezonunda bir oyuncunun attığı şutların saha üze
 
 
 📌 Kullanılan R Paketleri
+
 tidyverse: Veri işleme ve düzenleme için temel paket grubu
 
 worldfootballR: Understat API'si aracılığıyla futbol verilerini çekmek için
